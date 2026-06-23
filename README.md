@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tonghe90
-- 👀 I’m interested in computer vision and machine learning
+- 👀 I’m interested in world model.
 - 📫 How to reach me: feel free to drop me an email tonghe90 AT gmail DOT com
 
 <!---
